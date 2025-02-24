@@ -3,5 +3,7 @@
 
 
 📱 Product List Screen: Display a list of products with attractive UI.
+
 🖼️ GCD and Completion Handle API Calls: Utilize Swift's GCD and Completion handler to fetch product data asynchronously.
+
 🌟 Product Detail Screen: Create a stunning product details screen with Image, HStack, VStack, and more.
